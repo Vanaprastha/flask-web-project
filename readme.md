@@ -4,4 +4,4 @@
 # nama : Faishal IR
 # nrp : 3323600017
 # kelas : D4 Sains Data Terapan A
-
+# perubahan 1
